@@ -1,4 +1,4 @@
-class Main {
+class Range {
   public static void main(String[] args) {
     byte valbyte = 1024;
     int range= -4250000;
